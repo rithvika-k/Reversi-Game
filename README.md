@@ -2,9 +2,9 @@
 Series of two labs (Lab 7 and Lab 8) that will complete an implementation for a board-type game called Reversi (also known as Othello).
 
 Code: 
-U - for unoccupied
-B - occupied by black
-W - occupied by white
+U - for unoccupied,
+B - occupied by black,
+W - occupied by white.
 
 You must enter the location you wish to place your piece by entering the row and column combination. For example, ab refers to row (a) and column (b).
 
