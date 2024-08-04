@@ -11,6 +11,7 @@ You must enter the location you wish to place your piece by entering the row and
 Lab 7: Board Configuration and Move Legality Checking
 
 Lab 8: Game-Player Program
-  
-  Part 1: Implementing the Prescribed Algorithm
-  Part 2: Implementing My Own Algorithm
+
+   -- Part 1: Implementing the Prescribed Algorithm
+   
+   -- Part 2: Implementing My Own Algorithm
