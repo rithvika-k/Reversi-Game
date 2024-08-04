@@ -8,7 +8,9 @@ W - occupied by white
 
 You must enter the location you wish to place your piece by entering the row and column combination. For example, ab refers to row (a) and column (b).
 
+
 Lab 7: Board Configuration and Move Legality Checking
+
 
 Lab 8: Game-Player Program
 
